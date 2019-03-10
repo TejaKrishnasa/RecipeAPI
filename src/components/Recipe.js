@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-const API_KEY = '1d3022f2e78a851da08e9ea7189cec59';
+const API_KEY = '';
 
 class Recipe extends Component {
   state = {
